@@ -1,9 +1,6 @@
-<img width="718" height="358" alt="image" src="https://github.com/user-attachments/assets/2bc78a70-915f-4c00-96d4-64048110253e" />
-
-
 # Learning Fuel Cells Through Data: An IoT and Machine Learning Lab
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](replace with URL of FileExchage repo) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=armandogarcia17/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/184946-learning-fuel-cells-through-data) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UTT-HCC-Research/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj)
 
 **Curriculum Module**
 
@@ -23,7 +20,7 @@ electrical engineering courses.
 ### Accessing the Module
 ### **On MATLAB Online:**
 
-Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=armandogarcia17/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UTT-HCC-Research/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
