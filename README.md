@@ -1,6 +1,6 @@
 # Learning Fuel Cells Through Data: An IoT and Machine Learning Lab
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/184946-learning-fuel-cells-through-data) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UTT-HCC-Research/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/184994-learn-pemfc-through-data) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=UTT-HCC-Research/Learning-PEMFC-IoT-ML&project=Learning_PEMFC_IoT_ML.prj)
 
 **Curriculum Module**
 
