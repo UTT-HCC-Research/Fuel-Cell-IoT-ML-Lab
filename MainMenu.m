@@ -30,7 +30,7 @@
 %[text] | --- | --- |
 %[text:table]
 %[text] %[text:anchor:H_7DE4C80F] ### 
-%[text] Or explore other MathWorks [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
+%[text] Explore other MathWorks [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 %[text] %[text:anchor:H_CD56F44E] ## Educator Resources
 %[text] - [Educator Page](https://www.mathworks.com/academia/educators.html) \
 %[text] 
